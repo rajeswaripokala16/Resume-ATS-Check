@@ -474,7 +474,7 @@ class ResumeApp:
             # GitHub star button with lottie animation
             st.markdown("""
             <div style='display: flex; justify-content: center; align-items: center; margin-bottom: 10px;'>
-                <a href='https://github.com/Hunterdii/Smart-AI-Resume-Analyzer' target='_blank' style='text-decoration: none;'>
+                <a href='https://github.com/rajeswaripokala16/Resume-ATS-Check' target='_blank' style='text-decoration: none;'>
                     <div style='display: flex; align-items: center; background-color: #24292e; padding: 5px 10px; border-radius: 5px; transition: all 0.3s ease;'>
                         <svg height="16" width="16" viewBox="0 0 16 16" version="1.1" style='margin-right: 5px;'>
                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z" fill="gold"></path>
@@ -489,8 +489,8 @@ class ResumeApp:
             st.markdown("""
             <p style='text-align: center;'>
                 Powered by <b>Streamlit</b> and <b>Google Gemini AI</b> | Developed by 
-                <a href="https://www.linkedin.com/in/patel-hetkumar-sandipbhai-8b110525a/" target="_blank" style='text-decoration: none; color: #FFFFFF'>
-                    <b>Het Patel (Hunterdii)</b>
+                <a href="https://www.linkedin.com/in/rajeswari-pokala-34aa8a29b" target="_blank" style='text-decoration: none; color: #FFFFFF'>
+                    <b>Rajeswari Pokala</b>
                 </a>
             </p>
             <p style='text-align: center; font-size: 12px; color: #888888;'>
@@ -1023,7 +1023,7 @@ class ResumeApp:
         image_path = os.path.join(
     os.path.dirname(__file__),
     "assets",
-     "124852522.jpeg")
+     "Raji.jpeg")
         image_base64 = get_image_as_base64(image_path)
 
         apply_modern_styles()
@@ -1164,25 +1164,25 @@ class ResumeApp:
         # Profile Section
         st.markdown(f"""
             <div class="profile-section">
-                <img src="{image_base64 if image_base64 else 'https://avatars.githubusercontent.com/Hunterdii'}"
+                <img src="{image_base64 if image_base64 else 'https://www.pexels.com/photo/person-wearing-cap-holding-smartphone-9424896/'}"
                      alt="Het Patel"
                      class="profile-image"
-                     onerror="this.onerror=null; this.src='https://avatars.githubusercontent.com/Hunterdii';">
-                <h2 class="profile-name">Het Patel (Hunterdii)</h2>
-                <p class="profile-title">Full Stack Developer & AI/ML Enthusiast</p>
+                     onerror="this.onerror=null; this.src='https://www.pexels.com/photo/person-wearing-cap-holding-smartphone-9424896/';">
+                <h2 class="profile-name">Rajeswari Pokala</h2>
+                <p class="profile-title">Full Java Stack Developer & AI/ML Enthusiast</p>
                 <div class="social-links">
-                    <a href="https://github.com/Hunterdii" class="social-link" target="_blank">
+                    <a href="https://github.com/rajeswaripokala16" class="social-link" target="_blank">
                         <i class="fab fa-github"></i>
                     </a>
-                    <a href="https://www.linkedin.com/in/patel-hetkumar-sandipbhai-8b110525a/" class="social-link" target="_blank">
+                    <a href="https://www.linkedin.com/in/rajeswari-pokala-34aa8a29b" class="social-link" target="_blank">
                         <i class="fab fa-linkedin"></i>
                     </a>
-                    <a href="mailto:hunterdii9879@gmail.com" class="social-link" target="_blank">
+                    <a href="mailto:rajeswaripokala16@gmail.com" class="social-link" target="_blank">
                         <i class="fas fa-envelope"></i>
                     </a>
                 </div>
                 <p class="bio-text">
-                    Hello! I'm a passionate Full Stack Developer with expertise in AI and Machine Learning.
+                    Hello! I'm a passionate Full Java Stack Developer with expertise in AI and Machine Learning.
                     I created Smart Resume AI to revolutionize how job seekers approach their career journey.
                     With my background in both software development and AI, I've designed this platform to
                     provide intelligent, data-driven insights for resume optimization.

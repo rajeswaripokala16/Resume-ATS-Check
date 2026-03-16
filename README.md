@@ -33,13 +33,13 @@
      </thead>
     <tbody>
          <tr>
-            <td><img alt="Stars" src="https://img.shields.io/github/stars/Hunterdii/Smart-AI-Resume-Analyzer?style=flat&logo=github"/></td>
-            <td><img alt="Forks" src="https://img.shields.io/github/forks/Hunterdii/Smart-AI-Resume-Analyzer?style=flat&logo=github"/></td>
-            <td><img alt="Issues" src="https://img.shields.io/github/issues/Hunterdii/Smart-AI-Resume-Analyzer?style=flat&logo=github"/></td>
-            <td><img alt="Repo Size" src="https://img.shields.io/github/repo-size/Hunterdii/Smart-AI-Resume-Analyzer?style=flat&logo=github"/></td>
-            <td><img alt="Open PRs" src="https://img.shields.io/github/issues-pr/Hunterdii/Smart-AI-Resume-Analyzer?style=flat&logo=github"/></td>
-            <td><img alt="Closed PRs" src="https://img.shields.io/github/issues-pr-closed/Hunterdii/Smart-AI-Resume-Analyzer?style=flat&color=critical&logo=github"/></td>
-            <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Hunterdii/Smart-AI-Resume-Analyzer?style=flat&logo=github"/></td>
+            <td><img alt="Stars" src="https://img.shields.io/github/stars/rajeswaripokala16/Resume-ATS-Check?style=flat&logo=github"/></td>
+            <td><img alt="Forks" src="https://img.shields.io/github/forks/rajeswaripokala16/Resume-ATS-Check?style=flat&logo=github"/></td>
+            <td><img alt="Issues" src="https://img.shields.io/github/issues/rajeswaripokala16/Resume-ATS-Check?style=flat&logo=github"/></td>
+            <td><img alt="Repo Size" src="https://img.shields.io/github/repo-size/rajeswaripokala16/Resume-ATS-Check?style=flat&logo=github"/></td>
+            <td><img alt="Open PRs" src="https://img.shields.io/github/issues-pr/rajeswaripokala16/Resume-ATS-Check?style=flat&logo=github"/></td>
+            <td><img alt="Closed PRs" src="https://img.shields.io/github/issues-pr-closed/rajeswaripokala16/Resume-ATS-Check?style=flat&color=critical&logo=github"/></td>
+            <td><img alt="Contributors" src="https://img.shields.io/github/contributors/rajeswaripokala16/Resume-ATS-Check?style=flat&logo=github"/></td>
             <td><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="open source"/></td>
         </tr>
     </tbody>
@@ -58,9 +58,7 @@
       <a href="https://www.linkedin.com/in/het-patel-8b110525a/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Het Patel</a>
      </small>
   </p>
-  <small align="justify"><img src="https://github.com/user-attachments/assets/76906dbc-343d-4267-ace5-048d428fff42" width="20px"> A Project Submitted for the partial fulfilment of the degree BCA at 
-    <a href="https://paruluniversity.ac.in/">Parul University</a> during academic year 2024-25
-  </small>
+ 
 </div><br/><br/>
 </div>  
 
@@ -179,7 +177,7 @@ Follow the steps below to set up and run the **Smart AI Resume Analyzer** on you
 Open a terminal and run:
 
    ```bash
-   git clone https://github.com/Hunterdii/resume-analyzer-ai.git
+   git clone https://github.com/rajeswaripokala16/Resume-ATS-Check.git
    cd Smart-AI-Resume-Analyzer
    ```
 
@@ -595,8 +593,8 @@ Explore the code, contribute, or drop a <img src="https://github.com/user-attach
 
 ## 🛡️ Maintainer  
 
-> **_This repository is maintained by [Hunterdii](https://github.com/Hunterdii)._**  
-> Have suggestions? Feel free to reach out to [me via email](mailto:het8185@gmail.com). 📧
+> **_This repository is maintained by [Rajeswari Pokala](https://github.com/rajeswaripokala16)._**  
+> Have suggestions? Feel free to reach out to [me via email](mailto:rajeswaripokala16@gmail.com). 📧
 
 
 ## 📰 News  
@@ -611,8 +609,8 @@ If you appreciate this repository and want to show your support, you can do so t
 
 | ❤️ **Platform**        | 🌟 **Support Link**                                                                                                                                        |
 |------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **GitHub Sponsors**    | [![GitHub Sponsors](https://img.shields.io/badge/GitHub-Sponsor-red?style=flat-square&logo=github)](https://github.com/sponsors/Hunterdii)                  |
+| **GitHub Sponsors**    | [![GitHub Sponsors](https://img.shields.io/badge/GitHub-Sponsor-red?style=flat-square&logo=github)](https://github.com/sponsors/rajeswaripokala16)                  |
 | **Buy Me a Coffee**    | [![Buy Me a Coffee](https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-orange?style=flat-square)](https://www.buymeacoffee.com/het81857)                 |
-| **Thanks.dev**         | [![Thanks.dev](https://img.shields.io/badge/💜-Thanks.dev-purple?style=flat-square)](https://thanks.dev/Hunterdii)                                          |
+| **Thanks.dev**         | [![Thanks.dev](https://img.shields.io/badge/💜-Thanks.dev-purple?style=flat-square)](https://thanks.dev/rajeswaripokala16)                                          |
 
 **Thank you for your support! Every bit helps keep this repository going.** 🌈✨
